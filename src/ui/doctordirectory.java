@@ -55,7 +55,7 @@ public class doctordirectory extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         labeldoctordirectory.setFont(new java.awt.Font("Segoe UI Black", 1, 18)); // NOI18N
-        labeldoctordirectory.setText("doctor directory");
+        labeldoctordirectory.setText("Doctor Directory");
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
